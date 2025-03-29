@@ -1,0 +1,25 @@
+.coat-of-arms {
+  height: 100px;
+}
+
+.country-element {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* Simple Table CSS */
+table {
+  border-collapse: collapse; /* No double borders */
+  width: 100%;
+  max-width: 600px; /* Optional max width */
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}

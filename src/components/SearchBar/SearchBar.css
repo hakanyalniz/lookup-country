@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+.searchBarDefault {
+  width: 80%;
+  padding: 12px 20px;
+  border: 2px solid #e0e0e0;
+  border-radius: 30px;
+  outline: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.searchBarDefault:focus {
+  border-color: #346fb3;
+  box-shadow: 0 2px 10px rgba(74, 144, 226, 0.3);
+}
+
+.searchBarDefault:hover {
+  border-color: #4a90e2;
+}
