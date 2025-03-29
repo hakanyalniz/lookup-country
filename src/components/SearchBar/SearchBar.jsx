@@ -7,7 +7,7 @@ function SearchBar({ className = "", searchIndex, setSearchIndex }) {
 
   return (
     <>
-      <h1>Weather Lookup</h1>
+      <h1>Country Lookup</h1>
       <input
         type="text"
         value={searchIndex}
